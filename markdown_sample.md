@@ -8,6 +8,7 @@ Bulleted list:
 * item 3
 
 Numbered list:
+
 1. First item
 2. Second item
 ..* nested unordered bullet
